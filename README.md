@@ -15,6 +15,8 @@ Execute the program with the fractal name of your choice like this : `./fractol 
 
 The fractals available are : `julia`, `mandelbrot`, `burning_ship`, `tricorn`, `celtic_mandelbar`, `celtic_mandelbrot`, `buffalo`, `celtic_heart`.
 
+Press `TAB` to print the menu inside the program.
+
 ## Screenshots
 
 ![](Images/France.png)
