@@ -1,1 +1,23 @@
 # Fractol
+
+Fractol is a small fractal exploration program. The project's goal is to discover the mathematical notion of complex numbers and to take a peek at the concept of optimization in computer graphics (multi-threading) by modelizing some fractals.
+
+## How to use
+
+- Compile : `make`
+- Remove object files : `make clean`
+- Remove object files and program : `make fclean`
+- Start fresh and re-compile : `make re`
+
+## Executing
+
+Execute the program with the fractal name of your choice like this : `./fractol mandelbrot`
+
+The fractals available are : `julia`, `mandelbrot`, `burning_ship`, `tricorn`, `celtic_mandelbar`, `celtic_mandelbrot`, `buffalo`, `celtic_heart`.
+
+## Screenshots
+
+![](Images/France.png)
+![](Images/France_palette_zoom.png)
+![](Images/Japan_palette.png)
+![](Images/Pylone.png)
