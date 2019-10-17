@@ -19,4 +19,6 @@ Press `TAB` to print the menu inside the program.
 
 ## Screenshots
 
+<p align="center">
 ![](Screenshots/fractol.gif)
+</p>
