@@ -19,7 +19,6 @@ Press `TAB` to print the menu inside the program.
 
 ## Screenshots
 
-![](Images/France.png)
-![](Images/France_palette_zoom.png)
-![](Images/Japan_palette.png)
-![](Images/Pylone.png)
+<p align="center">
+  <img width="800" height="600" src="Screenshots/fractol.gif">
+</p>
