@@ -20,5 +20,5 @@ Press `TAB` to print the menu inside the program.
 ## Screenshots
 
 <p align="center">
-![](Screenshots/fractol.gif)
+  <img width="800" height="600" src="Screenshots/fractol.gif">
 </p>
