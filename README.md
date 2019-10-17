@@ -22,3 +22,4 @@ Press `TAB` to print the menu inside the program.
 <p align="center">
   <img width="800" height="600" src="Screenshots/fractol.gif">
 </p>
+![](Screenshots/fractol1.png)
