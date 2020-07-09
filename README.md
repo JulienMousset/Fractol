@@ -17,6 +17,10 @@ The fractals available are : `julia`, `mandelbrot`, `burning_ship`, `tricorn`, `
 
 Press `TAB` to print the menu inside the program.
 
+## Warning
+
+This program is using the minilibx, a Mac OS graphic library developped at 42 school which we are using in our first graphic programming projects. Therefore, it won't compile if you are on a Linux OS.
+
 ## Screenshots
 
 <p align="center">
