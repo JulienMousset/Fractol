@@ -6,7 +6,7 @@
 /*   By: jmousset <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/09/15 13:18:26 by jmousset          #+#    #+#             */
-/*   Updated: 2019/10/16 15:47:00 by jmousset         ###   ########.fr       */
+/*   Updated: 2020/07/09 12:29:07 by julien           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 # include <fcntl.h>
 # include <stdio.h>
 # include <pthread.h>
-# include "mlx.h"
+# include "minilibx/mlx.h"
 # include "libft/libft.h"
 
 # define WIDTH 800
